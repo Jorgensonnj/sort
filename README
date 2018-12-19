@@ -1,0 +1,15 @@
+README
+
+This program test the speed efficiency of various sorting methods in c. The program will take
+a number from the user and create a shuffled array with the length of the array being that
+of the number the user gave. From this array the program will using the various sorting methods
+upon the shuffled array and time how quickly the sort was completed.
+
+Compiling
+
+This program includes a makefile. Simply type "make all" into the commandline to compile
+the executable file name "main".
+
+Running
+
+Type "./main <number>" to execute the file. Example, "./main 10".  
